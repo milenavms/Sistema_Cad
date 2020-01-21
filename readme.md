@@ -1,5 +1,3 @@
 
 
-![php-image]
-![l-image]
 
